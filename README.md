@@ -8,11 +8,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate software engineering student from Tunisia, with a strong interest in full-stack web development and clean software architecture. I love transforming ideas into real-world digital solutions, and I'm continuously learning modern tools and technologies to build efficient, scalable applications.
+I am a driven and detail-oriented Software Engineering student with a strong foundation in full-stack web development, object-oriented design, and modern JavaScript frameworks. I enjoy solving real-world problems through clean, scalable code and building intuitive digital experiences.
 
-Currently, I'm working on several personal projects using technologies like **Next.js**, **MongoDB**, and **Zustand**, while deepening my knowledge of system design and backend performance.
+My current focus lies in creating responsive web applications using technologies like Next.js, MongoDB, and Zustand. I'm passionate about continuous learning and thrive in collaborative environments where I can contribute meaningfully while sharpening my technical and soft skills.
 
-I’m actively seeking **internship** or **part-time opportunities** to apply my skills in a collaborative, real-world environment.
+I am currently seeking **internship** or **part-time opportunities** to apply my knowledge in a professional setting and grow alongside experienced developers.
+
 
 ---
 
