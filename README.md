@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Aziz Hamdi
 
-<!--
-**AzizHamdi99/AzizHamdi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student from Tunisia  
+💻 Passionate about full-stack development and problem solving  
+🚀 Building projects with Next.js, MongoDB, and React  
+📌 Currently looking for **internship or part-time opportunities**  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: JavaScript, TypeScript, C, C++
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, MongoDB, SQL
+- Tools: Git, GitHub, Postman, Zustand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizHamdi99&show_icons=true&theme=default)
+
+## 📫 Connect with me
+- 📧 Email: medazizhamdi99@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/aziz-hamdi-837175286)
+- 🧠 [Portfolio](https://github.com/AzizHamdi99)
