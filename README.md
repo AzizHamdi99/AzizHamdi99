@@ -8,13 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I am a driven and detail-oriented Software Engineering student with a strong foundation in full-stack web development, object-oriented design, and modern JavaScript frameworks. I enjoy solving real-world problems through clean, scalable code and building intuitive digital experiences.
+I'm a Software Engineering student with a passion for designing and building modern, scalable web applications. I enjoy transforming ideas into reliable, user-friendly products by writing clean, maintainable code and following software engineering best practices.
 
-My current focus lies in building scalable web applications using **Next.js, React, TypeScript, GraphQL, Node.js, Express, MongoDB, PostgreSQL, Prisma, Docker, and Zustand**.
+My primary focus is full-stack web development with Next.js, React, TypeScript, Node.js, Express, GraphQL, MongoDB, PostgreSQL, Prisma, Docker, and Zustand. I enjoy working across the entire development lifecycle—from designing intuitive user interfaces to developing robust backend services and optimizing databases.
 
-I'm passionate about continuous learning and thrive in collaborative environments where I can contribute meaningfully while sharpening both my technical and soft skills.
+Beyond coding, I'm constantly exploring new technologies, improving my problem-solving skills, and learning better ways to build high-quality software. I value collaboration, continuous learning, and writing code that is both efficient and easy to maintain.
 
-I am currently seeking **internship** or **part-time opportunities** to apply my knowledge in a professional setting and grow alongside experienced developers.
+I'm currently seeking internship and part-time opportunities where I can contribute to meaningful projects, learn from experienced engineers, and continue growing as a software developer.
 
 ---
 
