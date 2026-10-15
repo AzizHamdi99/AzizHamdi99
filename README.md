@@ -1,122 +1,162 @@
-<h2 align="left">Hi 👋, I'm Mohamed Aziz Hamdi</h2>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=false&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+to+Internships+%26+Part-Time+Opportunities" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineering student with a passion for designing and building modern, scalable web applications. I enjoy transforming ideas into reliable, user-friendly products by writing clean, maintainable code and following software engineering best practices.
-
-My primary focus is full-stack web development with Next.js, React, TypeScript, Node.js, Express, GraphQL, MongoDB, PostgreSQL, Prisma, Docker, and Zustand. I enjoy working across the entire development lifecycle—from designing intuitive user interfaces to developing robust backend services and optimizing databases.
-
-Beyond coding, I'm constantly exploring new technologies, improving my problem-solving skills, and learning better ways to build high-quality software. I value collaboration, continuous learning, and writing code that is both efficient and easy to maintain.
-
-I'm currently seeking internship and part-time opportunities where I can contribute to meaningful projects, learn from experienced engineers, and continue growing as a software developer.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="35" alt="GraphQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
-</p>
-
-### 🗄️ Databases & State Management
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" alt="Prisma"/>
-  <img src="https://avatars.githubusercontent.com/u/71513464?s=200&v=4" height="35" alt="Zustand"/>
-</p>
-
-### 🎨 Frontend & Styling
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Mohamed Aziz Hamdi</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizHamdi99&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizHamdi99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Application+Developer;Next.js+%7C+NestJS+%7C+React+%7C+TypeScript;Python+%7C+LangChain+%7C+LangGraph;Building+Scalable+Web+%26+AI+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizHamdi99&theme=tokyonight&hide_border=true" />
+  Passionate about building scalable web applications, AI-powered solutions, and continuously learning modern software engineering practices.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🔹 AssoStock
-Inventory management system for non-profit organizations with stock alerts, dashboards, and analytics.
+- 🎓 Software Engineering student passionate about building **modern, scalable, and user-focused applications**.
+- 💻 Full-Stack developer experienced with **Next.js, React, TypeScript, Node.js, NestJS, Express, GraphQL, PostgreSQL, MongoDB, Prisma, Docker, and Zustand**.
+- 🤖 Exploring **AI application development** using **Python, LangChain, LangGraph, OpenAI API, Gemini API, RAG, and OCR** to build intelligent software.
+- 🚀 Interested in **software architecture, REST APIs, authentication, database design, clean code, and scalable backend systems**.
+- ⚙️ Building applications using **Git, GitHub, Docker, CI/CD with GitHub Actions, testing, and collaborative development workflows**.
+- 🌱 Continuously learning new technologies and improving my problem-solving and software engineering skills.
+- 🤝 Open to **internship** and **part-time opportunities** where I can contribute to real-world projects while growing as a software engineer.
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+</p>
+
+---
+
+## 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/>
+</p>
+
+---
+
+## 🤖 AI & LLM
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
+
+- LangChain
+- LangGraph
+- OpenAI API
+- Gemini API
+- Retrieval-Augmented Generation (RAG)
+- Tesseract OCR
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📦 AssoStock
+
+Inventory management platform for non-profit organizations with dashboards, analytics, reporting, and stock management.
 
 🔗 https://github.com/AzizHamdi99/AssoStock
 
 ---
 
-### 🔹 Task Manager
-Role-based task management application with authentication, team management, dashboards, and analytics.
+## 📋 Task Manager
+
+Role-based task management application with authentication, dashboards, analytics, and team collaboration.
 
 🔗 https://github.com/AzizHamdi99/Task_Manager
 
 ---
 
-### 🔹 Imagify
-AI-powered image generation web application built with modern web technologies.
+## 🤖 Imagify
+
+AI-powered image generation application built with modern web technologies.
 
 🔗 https://github.com/AzizHamdi99/Imagify
 
 ---
 
-### 🔹 Invoice
-Invoice management application for creating and tracking invoices.
+## 🧾 Invoice
+
+Invoice management system for creating, tracking, and managing invoices.
 
 🔗 https://github.com/AzizHamdi99/Invoice
 
 ---
 
-### 🔹 Prescripto
-Hospital appointment booking and doctor dashboard system.
+## 🏥 Prescripto
+
+Hospital appointment booking system with doctor and patient dashboards.
 
 🔗 https://github.com/AzizHamdi99/Prestcripto
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizHamdi99&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizHamdi99&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizHamdi99&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:medazizhamdi99@gmail.com">
@@ -135,9 +175,9 @@ Hospital appointment booking and doctor dashboard system.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzizHamdi99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AzizHamdi99&label=Profile%20Views&color=2563EB&style=flat"/>
 </p>
 
 <p align="center">
-⭐️ From <a href="https://github.com/AzizHamdi99">Mohamed Aziz Hamdi</a>
+  ⭐ If you like my work, consider giving a ⭐ to my repositories!
 </p>
